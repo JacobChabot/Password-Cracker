@@ -1,0 +1,6 @@
+This Python program involves cracking hashes of passwords using two different files: hashed_password.txt and salted_passwords.txt. The user will be asked which file they wish to
+crack, and the program will call the appropriate function. The function will generate a random password, hash it, then check if it matches with any the hashedpasswords in the files. 
+Both functions are the same except the salted_passwords function will utilize the salt included in the salted_passwords file. 
+
+Please note: do not use this maliciously, this was an assignment assigned to me and used only for learning purposes. 
+ 
